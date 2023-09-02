@@ -1,3 +1,13 @@
+/**
+ *
+ * Leet code problem number: 561
+ * Problem name: Array pair sum
+ * Problem type: Array
+ * Difficulty: Easy
+ * Runtime: 12ms
+ * Memory Usage: 45.7 MB
+ */
+
 import java.util.Arrays;
 
 public class Solution561 {

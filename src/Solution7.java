@@ -1,3 +1,12 @@
+/**
+ *
+ * Leet code problem number: 7
+ * Problem name: Reverse Integer
+ * Problem type: Array
+ * Difficulty: Medium
+ * Runtime: 0ms
+ * Memory Usage: 39 MB
+ */
 public class Solution7 {
     static int reverse(int x) {
         int n = 0;

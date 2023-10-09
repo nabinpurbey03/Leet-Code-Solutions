@@ -1,3 +1,5 @@
+package medium;
+
 /**
  *
  * Leet code problem number: 7

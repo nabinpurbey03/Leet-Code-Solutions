@@ -1,4 +1,4 @@
-/**
+package easy; /**
  *
  * Leet code problem number: 561
  * Problem name: Array pair sum

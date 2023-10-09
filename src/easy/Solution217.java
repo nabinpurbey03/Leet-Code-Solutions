@@ -1,4 +1,4 @@
-/**
+package easy; /**
  *
  * Leet code problem number: 217
  * Problem name: Contains Duplicate

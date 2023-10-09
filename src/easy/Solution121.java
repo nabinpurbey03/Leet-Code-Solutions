@@ -1,3 +1,5 @@
+package easy;
+
 /**
  *
  * Leet code problem number: 121

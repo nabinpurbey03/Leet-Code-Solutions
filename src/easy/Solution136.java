@@ -1,4 +1,13 @@
 package easy;
+/**
+ *
+ * Leet code problem number: 136
+ * Problem name: Single Number
+ * Problem type: Array
+ * Difficulty: Medium
+ * Runtime: 0ms
+ * Memory Usage: 40 MB
+ */
 
 public class Solution136 {
     static int singleNumber(int[] nums) {
